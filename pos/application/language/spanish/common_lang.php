@@ -34,7 +34,7 @@ $lang['common_confirm_search']='Has seleccionado una o más filas. Éstas no est
 $lang['common_no_persons_to_display']='No hay gente que mostrar';
 $lang['common_return_policy']='Política de reintegro';
 $lang['common_price']='Precio';
-$lang['common_welcome_message']= 'Bienvenido(a) a Prisma Punto de Venta. ¡Haz click en algún módulo; debajo, para empezar!';
+$lang['common_welcome_message']= 'Bienvenido(a) a Sistema de Punto de Venta. ¡Selecciona algun modulo de la lista.!';
 $lang['common_inv']='inv';
 $lang['common_det']='detalles';
 ?>

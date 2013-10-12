@@ -19,15 +19,15 @@ $lang['module_reports_desc']='Ver y generar reportes';
 $lang['module_items']='Artículos';
 $lang['module_items_desc']='Agregar, Actualizar, Borrar y Buscar artículos';
 
-$lang['module_config']='Configuración de la Tienda';
+$lang['module_config']='Conf Sistema';
 $lang['module_config_desc']='Cambiar la configuración de la tienda';
 
-$lang['module_receivings']='Receivings';
-$lang['module_receivings_desc']='Process Purchase orders';
+$lang['module_receivings']='Recepción';
+$lang['module_receivings_desc']='Procesar Orden de Compra';
 
-$lang['module_giftcards']='Tarjetas de Regalo';
+$lang['module_giftcards']='Regalos';
 $lang['module_giftcards_desc']='Agregar, Actualizar, Borrar y Buscar Tarjetas de Regalo';
 
-$lang['module_item_kits']='Kits de Artículos';
+$lang['module_item_kits']='Combos';
 $lang['module_item_kits_desc']='Agregar, Actualizar, Borrar y Buscar Kits de Artículos';
 ?>

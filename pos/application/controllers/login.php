@@ -15,8 +15,7 @@ class Login extends Controller
 		else
 		{
 			$this->form_validation->set_rules('username', 'lang:login_undername', 'callback_login_check');
-    	    $this->form_validation->set_error_delimiters('<div class="error">', '</div>');
-			
+    	    $this->form_validation->set_error_delimiters('<div class="alert alert-danger">', '</div>');
 			if($this->form_validation->run() == FALSE)
 			{
 				$this->load->view('login');

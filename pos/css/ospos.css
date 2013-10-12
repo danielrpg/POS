@@ -14,7 +14,7 @@ body
 {
 	margin:0px;
 	padding:0px;
-	background-color:#f7f7f7;
+	background-color: #EEEEEE;
 }
 
 a.none
@@ -27,19 +27,22 @@ a.none
 {
 	position:relative;
 	width:100%;
-	background-color:#FFFFFF;	
+	background-color: #FFF;	
 	margin:0px;
 	padding:0px;
 	border-bottom:1px solid #CCCCCC;
 	text-align:center;	
 
 }
+.col-6{
+	background-color: #EEEEEE;
+}
 
 #content_area
 {
 	position:relative;
 	margin:0 auto;
-	width:875px;
+	width:100%;
 	text-align:left;
 	
 }
@@ -114,6 +117,7 @@ a.none
 #home_module_list
 {
 	position: relative;
+	background-color: #EEEEEE;
 }
 
 .module_item
